@@ -1,0 +1,2 @@
+# ClassCodeTemplate
+Class Template
